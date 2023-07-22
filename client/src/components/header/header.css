@@ -1,0 +1,14 @@
+
+.image {
+  width: 100px;
+  height: 400px;
+  
+}
+.heading{
+  margin-top: 5%;
+  font-style: var(object-fit);
+  position: absolute;
+  top:1%;
+  left: 30%;
+  font-size: 420%;
+}

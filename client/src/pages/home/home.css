@@ -1,0 +1,14 @@
+.body{
+    background-attachment: fixed;
+    background-image: url(./nature.jpg);
+    background-color: aqua;
+}
+.home{
+    display: flex;
+    background-attachment: fixed;
+    background-image: url(./nature.jpg);
+}
+.heading{
+    font-family: cursive;
+    background-color: rgb(59, 55, 55);
+}
